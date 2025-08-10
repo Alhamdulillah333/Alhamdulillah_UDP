@@ -3,7 +3,7 @@
 ---
 
 ## ⚡ Overview
-A powerful tool Ford on any website.
+A powerful tool For on any website.
 
 ---
 
